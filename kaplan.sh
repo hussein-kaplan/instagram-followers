@@ -367,7 +367,7 @@ printf "\n"
 
 read -p $' \e[1;31m[\e[0m\e[1;77m♝\e[0m\e[1;31m]\e[0m\e[1;77m Choose an option: \e[0m' option
 
-elif [[ $option -eq 1 ]]; then
+if [[ $option -eq 1 ]]; then
 login_user
 increase_followers
 
