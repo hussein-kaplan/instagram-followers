@@ -29,14 +29,7 @@ printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`8
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 
 
- printf " \e[0m\e[1;77m  _                  _       "        
- printf " \e[0m\e[1;77m |                | |          "    
- printf " \e[0m\e[1;77m| | __ __ _  _ __  | |  __ _  _ __  "
- printf " \e[0m\e[1;77m| |/ // _` || _ \ | | / _` || _ \ "
- printf " \e[0m\e[1;77m|   <| (_| || |_) || || (_| || | | |"
- printf "|_|\_\\__,_|| .__/ |_| \__,_||_| |_|
- printf "            | |                     
- printf "            |_|                     
+
 printf "\n"
 printf "https://www.facebook.com/husseinkaplan17"
 }
