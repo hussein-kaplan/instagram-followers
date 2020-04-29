@@ -22,12 +22,13 @@ banner() {
 printf " \n"
 
 
-                                                 kaplan
+
+printf "      kaplan      "
 
 
 printf "\n"
 
-printf "    https://www.facebook.com/husseinkaplan17"
+printf "contact with me in facebook:https://www.facebook.com/husseinkaplan17"
 }
 
 
@@ -273,25 +274,13 @@ fadil="323100909"
 batekhat="2201245028"
 hadii="6007160070"
 raneen="15066705089"
-marry="5659161897"
-dhurgham="1099333694"
-bashar="1358380328"
-alooosh="3155852957"
-shahadalshemari="311258768"
 ahmedalbasheer="398405019"
-aliadnankadhem="398775488"
-alaabbas="6982560780"
-ibrahim="1826684122"
-aseelhameem="1540416231"
-younismahmoud="305610726"
-azawy="2054876108"
-alobaidi="2117640664"
-amerhussen="1301749248"
-algarip="1612902634"
+
+
 
 
 if [[ ! -e celeb_id ]]; then
-printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $maysanber $mileycyrus $alkhafajitv $star $noorstars $celebrities $kashkoolatheer $mohamedalsalim $adil $raedabufatean $athab $aloosh $nour $mr_doltin $banat_styel $bakr_khald $haifa_hassony $iqiq $saifnabeell $basma $najwashihab $trybyl $qusaihatam $hoona $almansory $ghassan $sollaf5 $alsharqiyatelevision $adhamadil $awosalhlfe $alijasimm $albasheershow $husamalrassam $enaastaleb $alturky $fadil $batekhat $hadii $raneen $marry $dhurgham $bashar $alooosh $shahadalshemari $ahmedalbasheer $aliadnankadhem $alaabbas $ibrahim $aseelhameem $younismahmoud $azawy $alobaidi $amerhussen $algarip > celeb_id
+printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $maysanber $mileycyrus $alkhafajitv $star $noorstars $celebrities $kashkoolatheer $mohamedalsalim $adil $raedabufatean $athab $aloosh $nour $mr_doltin $banat_styel $bakr_khald $haifa_hassony $iqiq $saifnabeell $basma $najwashihab $trybyl $qusaihatam $hoona $almansory $ghassan $sollaf5 $alsharqiyatelevision $adhamadil $awosalhlfe $alijasimm $albasheershow $husamalrassam $enaastaleb $alturky $fadil $batekhat $hadii $raneen  $ahmedalbasheer  > celeb_id
 fi
 
 while [[ true ]]; do
