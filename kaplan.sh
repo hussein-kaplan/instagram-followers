@@ -22,17 +22,7 @@ banner() {
 printf " \n"
 
 
-                                                             
-printf " \e[1;77m88                                  88                           \e[0m\n"
-printf " \e[1;77m88                                  88                           \e[0m\n"
-printf " \e[1;77m88                                  88                           \e[0m\n"
-printf " \e[1;77m88   ,d8   ,adPPYYba,  8b,dPPYba,   88  ,adPPYYba,  8b,dPPYba,   \e[0m\n"
-printf " \e[1;77m88 ,a8"    ""     `Y8  88P'    "8a  88  ""     `Y8  88P'   `"8a  \e[0m\n"
-printf " \e[1;77m8888[      ,adPPPPP88  88       d8  88  ,adPPPPP88  88       88  \e[0m\n"
-printf " \e[1;77m88`"Yba,   88,    ,88  88b,   ,a8"  88  88,    ,88  88       88  \e[0m\n"
-printf " \e[1;77m88   `Y8a  `"8bbdP"Y8  88`YbbdP"'   88  `"8bbdP"Y8  88       88  \e[0m\n"
-printf " \e[1;77m                       88                                        \e[0m\n"
-printf " \e[1;77m                       88                                        \e[0m\n"
+                                                 kaplan
 
 
 printf "\n"
