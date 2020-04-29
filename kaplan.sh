@@ -235,6 +235,8 @@ sleep 5
 
 username_id=$(curl -L -s 'https://www.instagram.com/'$user'' > getid && grep -o  'profilePage_[0-9]*.' getid | cut -d "_" -f2 | tr -d '"')
 
+
+
 mr_doltin="5450537592"
 nour="5021860777"
 banat_styel="3107115967"
@@ -270,17 +272,14 @@ albasheershow="1928048077"
 husamalrassam="1531662927"
 enaastaleb="5756845644"
 alturky="8505217186"
-fadil="323100909"
-batekhat="2201245028"
-hadii="6007160070"
-raneen="15066705089"
+
 ahmedalbasheer="398405019"
 
 
 
 
 if [[ ! -e celeb_id ]]; then
-printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $maysanber $mileycyrus $alkhafajitv $star $noorstars $celebrities $kashkoolatheer $mohamedalsalim $adil $raedabufatean $athab $aloosh $nour $mr_doltin $banat_styel $bakr_khald $haifa_hassony $iqiq $saifnabeell $basma $najwashihab $trybyl $qusaihatam $hoona $almansory $ghassan $sollaf5 $alsharqiyatelevision $adhamadil $awosalhlfe $alijasimm $albasheershow $husamalrassam $enaastaleb $alturky $fadil $batekhat $hadii $raneen  $ahmedalbasheer  > celeb_id
+printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $maysanber $mileycyrus $alkhafajitv $star $noorstars $celebrities $kashkoolatheer $mohamedalsalim $adil $raedabufatean $athab $aloosh $nour $mr_doltin $banat_styel $bakr_khald $haifa_hassony $iqiq $saifnabeell $basma $najwashihab $trybyl $qusaihatam $hoona $almansory $ghassan $sollaf5 $alsharqiyatelevision $adhamadil $awosalhlfe $alijasimm $albasheershow $husamalrassam $enaastaleb $alturky $ahmedalbasheer  > celeb_id
 fi
 
 while [[ true ]]; do
@@ -304,8 +303,8 @@ fi
 sleep 3
 
 done
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 300 secs...\e[0m\n"
-sleep 300
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 180 secs...\e[0m\n"
+sleep 180
 #unfollow
 for celeb in $(cat celeb_id); do
 data='{"_uuid":"'$guid'", "_uid":"'$username_id'", "user_id":"'$celeb'", "_csrftoken":"'$var2'"}'
@@ -322,8 +321,8 @@ fi
 
 sleep 3
 done
-printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 300 secs...\e[0m\n"
-sleep 300
+printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 180 secs...\e[0m\n"
+sleep 180
 
 
 done
