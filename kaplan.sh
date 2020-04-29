@@ -316,7 +316,7 @@ if [[ $check_unfollow == "" ]]; then
 printf "\n\e[1;93m [!] Error, stoping to prevent blocking\n"
 exit 1
 else
-printf "\e[1;92mOK\e[0m\n"
+printf "\e[1;92mGOOD\e[0m\n"
 fi
 
 sleep 3
