@@ -23,11 +23,11 @@ printf " \n"
 
 
 printf " ♥• ────────────  ──────────── •♥\n"
-printf "           ♥wellcome\n♥             "
+printf "            ♥wellcome♥\n"
 printf "\033[1;97m♥• ────────────  ──────────── •♥\n"
-printf "\033[1;90m≫ \033[1;90m CODDED BY :\033[1;95m Hussein Kaplan\n"
-printf "\033[1;90m≫ \033[1;90m FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17\n"
-printf "\033[1;90m≫ \033[1;90m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR Your acount and how you us it\n"
+printf "\033[1;92m≫ \033[1;92m CODDED BY :\033[1;95m Hussein Kaplan\n"
+printf "\033[1;92m≫ \033[1;92m FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17\n"
+printf "\033[1;92m≫ \033[1;92m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR Your acount and how you us it\n"
 
 printf "\n"
 
