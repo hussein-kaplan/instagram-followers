@@ -23,12 +23,11 @@ printf " \n"
 
 
 printf " ♥• ────────────  ──────────── •♥\n"
-printf " wellcome\n"
+printf "           ♥wellcome\n♥             "
 printf "\033[1;97m♥• ────────────  ──────────── •♥\n"
-printf "\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m Hussein Kaplan\n"
-printf "\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17\n"
-printf "\033[1;96m≫ \033[1;96m NOTE :\033[1;95m DONOT  USE WIFI for two times in day\n"
-printf "\033[1;96m≫ \033[1;96m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR ANY ILLEGAL USE \n"
+printf "\033[1;90m≫ \033[1;90m CODDED BY :\033[1;95m Hussein Kaplan\n"
+printf "\033[1;90m≫ \033[1;90m FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17\n"
+printf "\033[1;90m≫ \033[1;90m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR Your acount and how you us it\n"
 
 printf "\n"
 
@@ -254,11 +253,8 @@ get_followers
 
 
 elif [[ $option -eq 2 ]]; then
-login_user
-default_user=$user
 
- 
-printf " contact with me  facebook: https://www.facebook.com/husseinkaplan1 "
+ printf "\033[1;90m≫ \033[1;90m contact with me  FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17\n"
 
 
 
