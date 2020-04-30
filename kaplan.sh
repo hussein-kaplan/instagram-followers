@@ -21,21 +21,16 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 banner() {
 printf " \n"
 
-logo ="""
-♥• ────────────  ──────────── •♥
-wellcome
-\033[1;97m♥• ────────────  ──────────── •♥
-\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m Hussein Kaplan
-\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17
-\033[1;96m≫ \033[1;96m NOTE :\033[1;95m DONOT  USE WIFI for two times in day
-\033[1;96m≫ \033[1;96m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR ANY ILLEGAL USE 
-"""
 
+printf " ♥• ────────────  ──────────── •♥\n"
+printf " wellcome\n"
+printf "\033[1;97m♥• ────────────  ──────────── •♥\n"
+printf "\033[1;96m≫ \033[1;96m CODDED BY :\033[1;95m Hussein Kaplan\n"
+printf "\033[1;96m≫ \033[1;96m FACEBOOK:\033[1;95m https://www.facebook.com/husseinkaplan17\n"
+printf "\033[1;96m≫ \033[1;96m NOTE :\033[1;95m DONOT  USE WIFI for two times in day\n"
+printf "\033[1;96m≫ \033[1;96m WARNING [༗]:\033[1;95m I'M NOT RESPONSIBLE FOR ANY ILLEGAL USE \n"
 
-
-printf "contact with me in facebook:https://www.facebook.com/husseinkaplan17  \n"
-        
-    printf "\n"
+printf "\n"
 
 
 }
